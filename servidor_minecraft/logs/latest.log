@@ -96,3 +96,5 @@
 [27Dec2024 19:12:56.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> busquemos
 [27Dec2024 19:14:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ya vuelvo
 [27Dec2024 19:15:04.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> donde vas?
+[27Dec2024 19:25:48.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yessi lost connection: Disconnected
+[27Dec2024 19:25:48.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi left the game
