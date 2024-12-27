@@ -1,0 +1,49 @@
+[27Dec2024 18:28:14.172] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[27Dec2024 18:28:14.180] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[27Dec2024 18:28:14.183] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[27Dec2024 18:28:14.346] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[27Dec2024 18:28:14.649] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/MP.2.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[27Dec2024 18:28:14.930] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[27Dec2024 18:28:16.024] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[27Dec2024 18:28:16.582] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/MP.2.5/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MP.2.5/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/MP.2.5/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MP.2.5/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[27Dec2024 18:28:16.718] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/MP.2.5/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MP.2.5/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/MP.2.5/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MP.2.5/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[27Dec2024 18:28:24.276] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[27Dec2024 18:28:24.277] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[27Dec2024 18:28:24.285] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[27Dec2024 18:28:25.345] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Dec2024 18:28:25.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[27Dec2024 18:28:27.228] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[27Dec2024 18:28:30.127] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[27Dec2024 18:28:30.420] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[27Dec2024 18:28:31.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[27Dec2024 18:28:31.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Dec2024 18:28:31.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Dec2024 18:28:31.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Dec2024 18:28:31.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Dec2024 18:28:31.207] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Dec2024 18:28:31.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Dec2024 18:28:31.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Dec2024 18:28:31.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Dec2024 18:28:31.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Dec2024 18:28:31.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Dec2024 18:28:36.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Dec2024 18:28:36.658] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 18:28:36.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Dec2024 18:28:36.925] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 854 ms
+[27Dec2024 18:28:36.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.651s)! For help, type "help"
+[27Dec2024 18:28:36.944] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Dec2024 18:29:09.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xentros10000[/100.113.159.124:51981] logged in with entity id 9 at (10.5, 93.0, -5.5)
+[27Dec2024 18:29:09.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 joined the game
+[27Dec2024 18:32:35.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yessi[/100.120.31.87:60545] logged in with entity id 856 at (-1.5, 97.0, -8.5)
+[27Dec2024 18:32:35.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi joined the game
+[27Dec2024 18:32:57.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> alo?
+[27Dec2024 18:33:24.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> te odio
+[27Dec2024 18:35:10.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by yessi
+[27Dec2024 18:35:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi was slain by xentros10000
+[27Dec2024 18:35:32.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> yaaaaaa
+[27Dec2024 18:35:55.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> q raro no hay moustros
+[27Dec2024 18:36:05.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> mmm lo cambio de dificultad?}
+[27Dec2024 18:36:31.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> esta en pacifico?
+[27Dec2024 18:36:44.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> noo esta en facil ya vi un zombi
+[27Dec2024 18:37:10.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> te di un beso
+[27Dec2024 18:37:42.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Monster Hunter]
