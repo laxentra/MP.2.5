@@ -732,3 +732,48 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Dec2024 18:53:49.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi has made the advancement [Stone Age]
 [27Dec2024 18:55:32.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi has made the advancement [Getting an Upgrade]
 [27Dec2024 18:58:14.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi has made the advancement [Acquire Hardware]
+[27Dec2024 18:58:36.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 18:58:36.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:02:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> volvi
+[27Dec2024 19:02:30.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> donde estas
+[27Dec2024 19:03:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made xentros10000 a server operator
+[27Dec2024 19:03:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to yessi]
+[27Dec2024 19:03:25.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> porque estaba en una cueva
+[27Dec2024 19:03:36.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:03:36.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:03:44.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> que has echo?
+[27Dec2024 19:03:54.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> nada
+[27Dec2024 19:04:09.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> me das herramientas?
+[27Dec2024 19:04:33.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> no
+[27Dec2024 19:04:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> pliss
+[27Dec2024 19:05:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi has made the advancement [Isn't It Iron Pick]
+[27Dec2024 19:06:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Getting an Upgrade]
+[27Dec2024 19:06:14.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> tienes comida?
+[27Dec2024 19:06:32.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> todo queres??
+[27Dec2024 19:06:52.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> si
+[27Dec2024 19:07:12.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> donde hacemos la casa?
+[27Dec2024 19:07:24.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> nose
+[27Dec2024 19:07:31.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> vos decime
+[27Dec2024 19:07:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> buscamos una aldea?
+[27Dec2024 19:08:36.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:08:36.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:08:55.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Stone Age]
+[27Dec2024 19:09:15.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> donde estas?
+[27Dec2024 19:09:23.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> en una cueva
+[27Dec2024 19:10:16.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> pone las coordenadas
+[27Dec2024 19:10:19.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> 2451, 92 , 63
+[27Dec2024 19:10:35.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> 251, 92,63
+[27Dec2024 19:10:59.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to yessi]
+[27Dec2024 19:11:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> toma
+[27Dec2024 19:11:23.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> gatias
+[27Dec2024 19:12:36.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> zzz
+[27Dec2024 19:12:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Sweet Dreams]
+[27Dec2024 19:12:41.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi has made the advancement [Sweet Dreams]
+[27Dec2024 19:12:52.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> vamos
+[27Dec2024 19:12:56.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> busquemos
+[27Dec2024 19:13:36.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:13:36.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:14:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ya vuelvo
+[27Dec2024 19:15:04.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> donde vas?
+[27Dec2024 19:18:36.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:18:36.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
