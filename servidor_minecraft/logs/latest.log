@@ -37,3 +37,35 @@
 [27Dec2024 20:17:19.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Timed out
 [27Dec2024 20:17:19.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
 [27Dec2024 20:17:19.368] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Dec2024 20:25:17.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xentros10000[/100.113.159.124:50011] logged in with entity id 404 at (325.7900991026704, 63.0, 254.16250194676252)
+[27Dec2024 20:25:17.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 joined the game
+[27Dec2024 20:25:31.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Ice Bucket Challenge]
+[27Dec2024 20:25:59.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luisana[/100.120.31.87:49601] logged in with entity id 691 at (-0.5, 99.0, 7.5)
+[27Dec2024 20:25:59.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana joined the game
+[27Dec2024 20:26:15.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> donde estas?
+[27Dec2024 20:26:30.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to luisana]
+[27Dec2024 20:26:38.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> perdi todooooo
+[27Dec2024 20:26:40.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> cambiaste de skin?
+[27Dec2024 20:26:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> no
+[27Dec2024 20:26:59.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> pues claro iniciaste con un nuevo cliente
+[27Dec2024 20:27:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> a
+[27Dec2024 20:27:07.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> antes eras yesi
+[27Dec2024 20:27:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> si me di cuenta
+[27Dec2024 20:29:04.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> khe?
+[27Dec2024 20:29:37.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> dame
+[27Dec2024 20:30:14.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> khe?
+[27Dec2024 20:30:21.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana has made the advancement [Getting an Upgrade]
+[27Dec2024 20:30:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> que hago?
+[27Dec2024 20:30:54.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> de?
+[27Dec2024 20:31:08.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> primweo busquemos un pueblo
+[27Dec2024 20:31:15.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> sigueme
+[27Dec2024 20:31:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> guiame, acabo de tomar una cervesa nose lo que hago jajajaja
+[27Dec2024 20:32:07.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> jajjaja solo con una
+[27Dec2024 20:32:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ?
+[27Dec2024 20:32:16.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> sube
+[27Dec2024 20:32:29.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> una grande
+[27Dec2024 20:32:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> y no comparte
+[27Dec2024 20:33:08.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> estas ebria enserio?
+[27Dec2024 20:33:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> poquito jsjsjsjs
+[27Dec2024 20:33:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> busquemos ovejas
+[27Dec2024 20:33:51.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> jajajaj
