@@ -98,3 +98,16 @@
 [27Dec2024 19:15:04.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yessi> donde vas?
 [27Dec2024 19:25:48.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yessi lost connection: Disconnected
 [27Dec2024 19:25:48.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yessi left the game
+[27Dec2024 19:44:03.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[27Dec2024 19:44:03.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[27Dec2024 19:44:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Dec2024 19:44:27.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Dec2024 19:44:27.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Dec2024 19:44:27.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Dec2024 19:44:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Dec2024 19:44:27.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Dec2024 19:44:27.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Dec2024 19:44:27.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Dec2024 19:44:27.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Dec2024 19:44:27.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Dec2024 19:44:27.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
